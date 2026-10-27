@@ -101,8 +101,8 @@ A collaborative project focused on building a safety-oriented application.
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yassine-amdouni2&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassine-amdouni2&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most Used Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Amdouni2&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amdouni2&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most Used Languages"/>
 </p>
 
 <p align="center">
