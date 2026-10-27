@@ -1,58 +1,129 @@
 <h1 align="center">Hi 👋, I'm Yassine Amdouni</h1>
-<h3 align="center">Freshman Computer Science Student at Faculté des Sciences de Tunis</h3>
 
----
+<h3 align="center">Computer Science Student | Aspiring Machine Learning Engineer | Full-Stack Developer</h3>
 
-### 🚀 About Me
-- 🧑‍🎓 I’m currently studying Computer Science at **Faculté des Sciences de Tunis**.
-- 🌱 I’m learning **Data Structures**, **Algorithms**, and improving my **Web Development** skills.
-- 💻 I have an **intermediate level** in **Python** and **JavaScript**.
-- 👯 I’m looking to collaborate on **beginner-friendly open-source projects**.
-- ⚡ Fun fact: **I’m on a journey to master full-stack development!**
-
----
-
-### 🛠️ Tech Stack
-
-#### Languages:
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
-
-#### Tools:
-![VS Code](https://img.shields.io/badge/Editor-VS%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Version%20Control-Git-orange?style=flat-square&logo=git&logoColor=white)
-
-#### Interests:
-- 🕸️ **Web Development**: Building interactive web apps.
-- 🤖 **Machine Learning**: Exploring AI concepts with Python.
-- 🛠️ **Problem Solving**: Improving logic with coding challenges.
-<!--
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical&count_private=true" />
-  <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical" />
-</div>-->
-
----
-
-### 🌐 Connect With Me
 <p align="center">
-  <a href="www.linkedin.com/in/yassine-amdouni2" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:amdyassine52@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <!--<a href="https://yourportfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=white" /></a>-->
+  <a href="https://www.linkedin.com/in/yassine-amdouni2/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:amdyassine52@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
-<!--
----
-<!--
-### 🎨 Fun Extras
-<details>
-  <summary>🖼️ Random Dev Meme</summary>
-  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-</details>-->
 
 ---
 
-Thanks for visiting! Feel free to connect or collaborate! 😊
+## 🚀 About Me
+
+I'm a Computer Science student at **Faculté des Sciences de Tunis**, passionate about software development, data science, and artificial intelligence.
+
+I enjoy turning ideas into practical projects, exploring new technologies, and strengthening my problem-solving skills through hands-on experience.
+
+- 🎓 Studying Computer Science at Faculté des Sciences de Tunis.
+- 🤖 Exploring Machine Learning and Deep Learning with Python.
+- 📊 Working with data analysis, preprocessing, and predictive modeling.
+- 🌐 Developing my skills in web development and software engineering.
+- ⚽ Building **TuniFoot Analytics**, a machine learning project focused on Tunisian football.
+- 🔍 Interested in data-driven applications and real-world problem solving.
+- 🤝 Open to collaborating on interesting projects and contributing to open source.
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,c,html,css" alt="Programming Languages"/>
+</p>
+
+### 📊 Data Science & Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" alt="Python"/>
+</p>
+
+`NumPy` · `Pandas` · `Matplotlib` · `Scikit-learn` · `BeautifulSoup` · `Requests`
+
+**Currently exploring:** Data preprocessing, feature engineering, classification, model evaluation, cross-validation, and predictive analytics.
+
+### 🌐 Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express" alt="Web Development"/>
+</p>
+
+### 🧰 Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,linux,docker" alt="Tools and Technologies"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### ⚽ TuniFoot Analytics
+**Machine Learning · Python · Web Scraping · Data Analysis**
+
+A data-driven project focused on Tunisian football, using historical league match data to explore team performance and predict match outcomes.
+
+- Collecting football match data through web scraping.
+- Cleaning and preparing historical match datasets.
+- Exploring team statistics and performance indicators.
+- Building machine learning models to classify match outcomes: home win, draw, or away win.
+- Evaluating models using appropriate classification metrics.
+
+**Repository:** [Explore TuniFoot Analytics](https://github.com/)
+
+### 🛡️ SafeZone
+**Software Development · Collaborative Project**
+
+A collaborative project focused on building a safety-oriented application.
+
+- Developed as a team project.
+- Focused on applying software development skills to a practical use case.
+
+**Repository:** [Explore SafeZone](https://github.com/ahmedbahroun06/SafeZone)
+
+---
+
+## 📚 Currently Learning
+
+- 🤖 Machine Learning and Deep Learning.
+- 📈 Feature engineering and model evaluation.
+- 🧠 Algorithms and data structures.
+- 🌐 Full-stack web development.
+- 🐍 Python for data science and automation.
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yassine-amdouni2&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassine-amdouni2&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most Used Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=yassine-amdouni2&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+</p>
+
+---
+
+## 🌐 Let's Connect
+
+I'm always interested in connecting with other developers, exchanging ideas, and collaborating on meaningful projects.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yassine-amdouni2/">
+    <img src="https://img.shields.io/badge/LinkedIn-Yassine%20Amdouni-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:amdyassine52@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Get%20in%20Touch-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>"Building, learning, and improving one project at a time."</i>
+</p>
